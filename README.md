@@ -1,4 +1,4 @@
-<h1 style="align:center"> Pig-Game </h1>
+<h1 align="center"> Pig Game</h1>
 
 Pig-game(ludo) is a classic board game played between friends and family. Play the dice game of kings! Recall your childhood!
 ![](screen1.png)
@@ -28,4 +28,5 @@ Please make sure to update tests as appropriate.
 ## Developed with
 This game was developed using javascript math.random that draws numbers randomly and using Document Query Selector 
 
-## Copyright(c) 2020 by Vivek Kumar Singh 
+![](https://www.udemy.com/staticx/udemy/images/v6/default-meta-image.png)
+## Credits to Jonas Schmedtmann (@jonasschmedtmann) viz Udemy - The Complete JavaScript Course 2020
