@@ -78,7 +78,7 @@ const declareWinner = function () {
     ? player0.classList.add('player--winner')
     : player1.classList.add('player--winner');
   playing = false;
-
+  diceImg.classList.add('hidden');
   //   reset();
 };
 
